@@ -1,4 +1,4 @@
-package com.oneclick.Oneclick;
+package com.oneclick.oneclick;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
